@@ -109,7 +109,3 @@ bash <(curl -Ls https://github.com/iERROR-XD/Backup/raw/main/backup.sh)
 <p align="right">https://nowpayments.io/donation/ACLover</p>
 
 ###
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/AC-Lover/backup.svg)](https://starchart.cc/AC-Lover/backup)
